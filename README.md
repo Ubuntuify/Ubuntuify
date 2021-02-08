@@ -15,3 +15,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryangamingxbox&show_icons=true&locale=en" alt="ryangamingxbox" /></p>
 <p align="center">"<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryangamingxbox&" alt="ryangamingxbox" /></p>
+<p align="center">"<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryangamingxbox&layout=compact">
